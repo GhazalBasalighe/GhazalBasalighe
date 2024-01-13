@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="60"> A little more about me...  
+### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"> A little more about me...  
 
 ```javascript
 const ghazal = {
