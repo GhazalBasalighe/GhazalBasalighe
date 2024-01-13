@@ -3,7 +3,6 @@
 <p><em>Software Engineer at <a href="http://www.unb.br">University of Allameh Tabataba'i</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: GhazalBasalighe](https://img.shields.io/twitter/follow/GhazalBasalighe?style=social)](https://twitter.com/GhazalBasalighe)
 [![Linkedin: ghazalbasalighe](https://img.shields.io/badge/-ghazalbasalighe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazalbasalighe/)](https://www.linkedin.com/in/ghazalbasalighe/)
 [![GitHub Ghazal](https://img.shields.io/github/followers/ghazalbasalighe?label=follow&style=social)](https://github.com/GhazalBasalighe)
 
