@@ -2,7 +2,7 @@
 <img align='right' src="https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=6c09b952kykpijc3hi9amst0b902xxqomxne4v46sornijw1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="230">
 <p>
   <em>Software Engineer at <a href="https://mcs.atu.ac.ir/en">University of Allameh Tabataba'i</a>
-  <img align="right" src="https://media1.giphy.com/media/PY6pux8Sk8AOmHrSLj/giphy.gif" width="50"></em>
+  <img src="https://media1.giphy.com/media/PY6pux8Sk8AOmHrSLj/giphy.gif" width="50"></em>
 </p>
 
 
