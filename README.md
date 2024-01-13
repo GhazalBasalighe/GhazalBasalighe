@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ghazal Basalighe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://mcs.atu.ac.ir/en">University of Allameh Tabataba'i</a><img src="https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=6c09b952kykpijc3hi9amst0b902xxqomxne4v46sornijw1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30"></em></p>
+<p><em>Software Engineer at <a href="https://mcs.atu.ac.ir/en">University of Allameh Tabataba'i</a></em></p>
 </em></p>
 
 [![Linkedin: ghazalbasalighe](https://img.shields.io/badge/-ghazalbasalighe-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazalbasalighe/)](https://www.linkedin.com/in/ghazalbasalighe/) 
@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=6c09b952kykpijc3hi9amst0b902xxqomxne4v46sornijw1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60"> A little more about me...  
 
 ```javascript
 const ghazal = {
