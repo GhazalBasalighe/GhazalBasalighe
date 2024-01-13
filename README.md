@@ -15,4 +15,24 @@ const ghazal = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
   architecture: ["design system pattern"],
+ projects: 
+    {
+      name: "Ghazal Beauty",
+      description: "E-commerce cosmetics and skin care shop",
+      technologies: ["ReactJS", "TailwindCSS" , "React-Redux" , "React-Router" , "Axios" , "Vite" , "Yarn" , "Node.js", "Express.js" , "Yup" , "Formik" ],
+      role: "Front End Developer",
+      link: "[https://github.com/GhazalBasalighe/Ghazal-Beauty]",
+    },
+
+education: {
+    degree: "Bachelor of computer engineering",
+    university: "Allameh Tabataba'i University",
+    graduationYears: 2019 - present,
+  },
+  certifications: 
+    {
+      name: "React JS",
+      issuingOrganization: "Maktab Sharif Coding Bootcamp",
+      completionDate: "Januray 2023",
+    },
 ```
