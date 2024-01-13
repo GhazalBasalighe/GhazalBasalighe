@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=6c09b952kykpijc3hi9amst0b902xxqomxne4v46sornijw1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60"> A little more about me...  
+### <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="60"> A little more about me...  
 
 ```javascript
 const ghazal = {
@@ -42,3 +42,4 @@ certifications:
       completionDate: "Januray 2023",
     },
 ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
