@@ -13,9 +13,9 @@
 ```javascript
 const ghazal = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components , CSS & JS Libraries],
-  architecture: ["design system pattern"],
+  code: [React , Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux , React-Router , Node, Styled-Components , CSS-modules , CSS-Libraries],
+  architecture: ["design system pattern" , "SPA"],
 
  projects: 
     {
@@ -23,7 +23,7 @@ const ghazal = {
       description: "E-commerce cosmetics and skin care shop",
       technologies: ["ReactJS", "TailwindCSS" , "React-Redux" , "React-Router" , "Axios" , "Vite" , "Yarn" , "Node.js", "Express.js" , "Yup" , "Formik" ],
       role: "Front End Developer",
-      link: "[https://github.com/GhazalBasalighe/Ghazal-Beauty]",
+      link: "https://github.com/GhazalBasalighe/Ghazal-Beauty",
     },
 
 education: {
